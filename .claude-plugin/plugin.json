@@ -1,0 +1,9 @@
+{
+  "name": "prompt-log",
+  "version": "1.0.0",
+  "description": "Logs all user prompts to a markdown file for documenting how a project was built with Claude",
+  "author": {
+    "name": "Tyler Wanlass"
+  },
+  "repository": "https://github.com/tylerwanlass/prompt-log"
+}
