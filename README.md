@@ -28,13 +28,13 @@ This documents the prompts used to build this project with Claude.
 ## Installation
 
 ```bash
-claude plugin install tylerwanlass/prompt-log
+claude plugin install twanlass/prompt-log
 ```
 
 Or clone and install locally:
 
 ```bash
-git clone https://github.com/tylerwanlass/prompt-log.git
+git clone https://github.com/twanlass/prompt-log.git
 claude plugin install --path ./prompt-log
 ```
 
